@@ -56,4 +56,4 @@
 </div>
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/ali-mustafa/ali-mustafa/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alimustafa4/alimustafa4/raw/output/github-contribution-grid-snake.svg)
