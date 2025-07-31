@@ -14,7 +14,7 @@
 
 <div align="center">
   <h3>About Me</h3>
-  <p>I'm <strong>Ali Mostafa</strong>, a 21-year-old student at the Faculty of Computers and Information, currently in my 4th year.</p>
+  <p>I'm <strong>Ali Mustafa</strong>, a 21-year-old student at the Faculty of Computers and Information, currently in my 4th year.</p>
   <p>I’m passionate about <strong>Back-End Development</strong> using <strong>.NET</strong>.</p>
 </div>
 
