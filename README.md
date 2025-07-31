@@ -13,10 +13,9 @@
 <hr>
 
 <div align="center">
-  <h3>👋 About Me</h3>
-  <p>I'm <strong>Ali Mostafa</strong>, a 20-year-old student at the Faculty of Computers and Information, currently in my 3rd year.</p>
+  <h3>About Me</h3>
+  <p>I'm <strong>Ali Mostafa</strong>, a 21-year-old student at the Faculty of Computers and Information, currently in my 4th year.</p>
   <p>I’m passionate about <strong>Back-End Development</strong> using <strong>.NET</strong>.</p>
-  <p>I also enjoy building simple UIs using just <strong>HTML & CSS</strong>.</p>
 </div>
 
 <hr>
