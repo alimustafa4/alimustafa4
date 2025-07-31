@@ -54,3 +54,6 @@
 <div align="center">
   <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="128" />
 </div>
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/ali-mustafa/ali-mustafa/raw/output/github-contribution-grid-snake.svg)
